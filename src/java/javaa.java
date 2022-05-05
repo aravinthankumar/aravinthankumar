@@ -13,5 +13,9 @@ public class javaa {
 		// TODO Auto-generated method stub
 System.out.println("kjdgfhjgfsy");
 	}
+	private void jhxg() {
+		// TODO Auto-generated method stub
+System.out.println("kashsdhf");
+	}
 
 }
