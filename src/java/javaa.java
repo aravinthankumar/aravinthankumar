@@ -6,6 +6,12 @@ public class javaa {
 		
 		
 		System.out.println("jshfkdjfhsnnhvsv");
+		
+		
+	}
+	private void meth() {
+		// TODO Auto-generated method stub
+System.out.println("kjdgfhjgfsy");
 	}
 
 }
